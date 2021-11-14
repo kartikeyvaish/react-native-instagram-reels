@@ -1,0 +1,58 @@
+{
+  "name": "react-native-instagram-reels",
+  "version": "1.0.0",
+  "description": "Instagram Reels component for React Native",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "@react-native-community/slider": "^4.1.12",
+    "react-native-vector-icons": "^9.0.0",
+    "react-native-video": "^5.2.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.6 || ^17.0.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "@types/react": "^17.0.34",
+    "@types/react-native": "^0.66.4",
+    "@types/react-native-vector-icons": "^6.4.10",
+    "@types/react-native-video": "^5.0.10",
+    "babel-jest": "^26.6.3",
+    "eslint": "7.14.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.66.2",
+    "react-test-renderer": "17.0.2",
+    "typescript": "^4.4.4"
+  },
+  "contributors": [
+    {
+      "name": "Kartikey Vaish",
+      "url": "https://github.com/kartikeyvaish"
+    }
+  ],
+  "jest": {
+    "preset": "react-native"
+  },
+  "homepage": "https://github.com/kartikeyvaish/react-native-instagram-reels#readme",
+  "bugs": {
+    "url": "https://github.com/kartikeyvaish/react-native-instagram-reels/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kartikeyvaish/react-native-instagram-reels.git"
+  },
+  "keywords": [
+    "reels",
+    "instagram-reels",
+    "react-native-instagram-reels",
+    "expo-instagram-reel",
+    "youtube-shorts",
+    "react-native-youtube-shorts",
+    "expo-youtube-shorts"
+  ]
+}
